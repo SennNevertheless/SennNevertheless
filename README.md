@@ -50,10 +50,10 @@
 
 🌟 *Passionate About Programming and Knowledge Sharing* 🌟
 
-✌️ &emsp; _ *Enjoy programming and sharing knowledge* _  
-❤️ &emsp; _ *Love writing code and learning new features* _  
-📧 &emsp; _ *Reach me anytime at:* _ [ *sennhndra@gmail.com* ](mailto:sennhndra@gmail.com)  
-💬 &emsp; _ *Have a question? Feel free to ask me [here](https://github.com/sennhndra/sennhndra/issues)* _
+✌️ &emsp;  *Enjoy programming and sharing knowledge*  
+❤️ &emsp; *Love writing code and learning new features*  
+📧 &emsp; *Reach me anytime at:*  [ *sennhndra@gmail.com* ](mailto:sennhndra@gmail.com)  
+💬 &emsp; *Have a question? Feel free to ask me [here](https://github.com/sennhndra/sennhndra/issues)* 
 
 </p>
 
@@ -76,7 +76,7 @@
 <br/>
 
 ## Top Open Source -
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=sennhndra&repo=Lilychanj-WhatsApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/TanakaDomp/Lilychanj-WhatsApp)
+[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=TanakaDomp&repo=Lilychanj-WhatsApp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/TanakaDomp/Lilychanj-WhatsApp)
 
 <p align="left">
   <a href="https://github.com/sennhndra?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
