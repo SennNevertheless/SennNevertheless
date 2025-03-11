@@ -44,12 +44,12 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
 
-🌟 _Passionate About Programming and Knowledge Sharing_ 🌟
+🌟 Passionate About Programming and Knowledge Sharing 🌟
 
-✌️ &emsp; _ *Enjoy programming and sharing knowledge* _  
-❤️ &emsp; _ *Love writing code and learning new features* _  
-📧 &emsp; _ *Reach me anytime at:* _ [ *sennhndra@gmail.com* ](mailto:sennhndra@gmail.com)  
-💬 &emsp; _ *Have a question? Feel free to ask me [here](https://github.com/SennNevertheless/SennNevertheless/issues)* _  
+✌️ &emsp;  *Enjoy programming and sharing knowledge*   
+❤️ &emsp;  *Love writing code and learning new features*   
+📧 &emsp;  *Reach me anytime at:* [ *sennhndra@gmail.com* ](mailto:sennhndra@gmail.com)  
+💬 &emsp;  *Have a question? Feel free to ask me [here](https://github.com/SennNevertheless/SennNevertheless/issues)*   
 </p>
 
 <br/>
